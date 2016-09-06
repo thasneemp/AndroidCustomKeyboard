@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input.xml",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\layout\\input.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transperent.xml",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\layout\\transperent.xml"
+    }
+]

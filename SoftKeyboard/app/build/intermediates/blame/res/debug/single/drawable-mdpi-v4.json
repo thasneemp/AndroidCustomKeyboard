@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_en_gb.png",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\drawable-mdpi\\icon_en_gb.png"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_shift.png",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_shift.png"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_en_us.png",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\drawable-mdpi\\icon_en_us.png"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_done.png",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_done.png"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_delete.png",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_return.png",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_search.png",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_search.png"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sym_keyboard_space.png",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_space.png"
+    }
+]

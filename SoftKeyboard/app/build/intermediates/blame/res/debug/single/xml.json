@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\qwerty.xml",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\xml\\qwerty.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols_shift.xml",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\xml\\symbols_shift.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols.xml",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\ime_preferences.xml",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\xml\\ime_preferences.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\build\\intermediates\\res\\merged\\debug\\xml\\method.xml",
+        "source": "E:\\gitrepos\\AndroidCustomKeyboard\\SoftKeyboard\\app\\src\\main\\res\\xml\\method.xml"
+    }
+]
