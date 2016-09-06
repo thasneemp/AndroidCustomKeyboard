@@ -33,6 +33,7 @@ public class LatinKeyboardView extends KeyboardView {
 
     public LatinKeyboardView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
+
     }
 
     @Override
@@ -46,7 +47,7 @@ public class LatinKeyboardView extends KeyboardView {
     }
 
     void setSubtypeOnSpaceKey(final InputMethodSubtype subtype) {
-        final LatinKeyboard keyboard = (LatinKeyboard)getKeyboard();
+        final LatinKeyboard keyboard = (LatinKeyboard) getKeyboard();
         keyboard.setSpaceIcon(getResources().getDrawable(subtype.getIconResId()));
         invalidateAllKeys();
     }

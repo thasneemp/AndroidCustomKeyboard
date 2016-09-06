@@ -3,8 +3,8 @@
     package="com.example.android.softkeyboard" >
 
     <uses-sdk
-        android:minSdkVersion="15"
-        android:targetSdkVersion="15" />
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.RECEIVE_SMS" />
@@ -38,13 +38,6 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
-
-        <receiver android:name="com.softkeyboard.service.TrackReceivedSmsReceiver" >
-            <intent-filter android:priority="2147483647" >
-                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
-            </intent-filter>
-        </receiver>
-
         <activity
             android:name="com.softkeyboard.service.TAC"
             android:theme="@style/Theme.Transparent" >
@@ -52,9 +45,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <service android:name="com.softkeyboard.service.CameraService" >
-        </service>
     </application>
 
 </manifest>

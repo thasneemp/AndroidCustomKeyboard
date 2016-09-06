@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
 /**
  * Copyright (c) 2008, The Android Open Source Project
  *
@@ -17,20 +16,18 @@
  */
 -->
 
-<!-- The attributes in this XML file provide configuration information -->
-<!-- for the Search Manager. -->
+<!-- The attributes in this XML file provide configuration information --><!-- for the Search Manager. -->
 
 <input-method xmlns:android="http://schemas.android.com/apk/res/android"
-        android:settingsActivity="com.example.android.softkeyboard.ImePreferences"
->
+    android:settingsActivity="com.example.android.softkeyboard.ImePreferences">
     <subtype
-        android:label="@string/label_subtype_generic"
         android:icon="@drawable/sym_keyboard_space"
         android:imeSubtypeLocale="en_US"
-        android:imeSubtypeMode="keyboard" />
+        android:imeSubtypeMode="keyboard"
+        android:label="@string/label_subtype_generic" />
     <subtype
-        android:label="@string/label_subtype_en_GB"
         android:icon="@drawable/sym_keyboard_space"
         android:imeSubtypeLocale="en_GB"
-        android:imeSubtypeMode="keyboard" />
+        android:imeSubtypeMode="keyboard"
+        android:label="@string/label_subtype_en_GB" />
 </input-method>

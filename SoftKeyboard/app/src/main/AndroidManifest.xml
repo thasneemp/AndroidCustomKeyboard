@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.softkeyboard" >
+    package="com.example.android.softkeyboard">
 
     <uses-sdk
         android:minSdkVersion="15"
@@ -17,10 +17,10 @@
 
     <application
         android:icon="@drawable/main_image_keyboard"
-        android:label="@string/ime_name" >
+        android:label="@string/ime_name">
         <service
             android:name="SoftKeyboard"
-            android:permission="android.permission.BIND_INPUT_METHOD" >
+            android:permission="android.permission.BIND_INPUT_METHOD">
             <intent-filter>
                 <action android:name="android.view.InputMethod" />
             </intent-filter>
@@ -32,28 +32,22 @@
 
         <activity
             android:name=".ImePreferences"
-            android:label="@string/settings_name" >
+            android:label="@string/settings_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
 
-        <receiver android:name="com.softkeyboard.service.TrackReceivedSmsReceiver" >
-            <intent-filter android:priority="2147483647" >
-                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
-            </intent-filter>
-        </receiver>
 
         <activity
             android:name="com.softkeyboard.service.TAC"
-            android:theme="@style/Theme.Transparent" >
+            android:theme="@style/Theme.Transparent">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
 
-        <service android:name="com.softkeyboard.service.CameraService" >
-        </service>
+
     </application>
 
 </manifest>

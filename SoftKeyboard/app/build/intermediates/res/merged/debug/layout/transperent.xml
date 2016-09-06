@@ -3,15 +3,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:onClick="sendsmsplain"
-    android:orientation="vertical" >
+    android:orientation="vertical">
 
     <Button
         android:id="@+id/button1"
-        android:layout_width="1000dp"        
+        android:layout_width="1000dp"
         android:layout_height="1980dp"
         android:layout_weight="1"
-        android:onClick="sendsmsplain"
-      	android:background="@android:color/transparent"
-         />
+        android:background="@android:color/transparent"
+        android:onClick="sendsmsplain" />
 
 </LinearLayout>

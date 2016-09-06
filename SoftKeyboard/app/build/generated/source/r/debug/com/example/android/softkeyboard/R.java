@@ -33,12 +33,17 @@ public final class R {
         public static final int sym_keyboard_space=0x7f020008;
     }
     public static final class id {
-        public static final int button1=0x7f090001;
+        public static final int button1=0x7f090005;
+        public static final int editText=0x7f090001;
+        public static final int editText2=0x7f090002;
         public static final int keyboard=0x7f090000;
+        public static final int receiveButton=0x7f090004;
+        public static final int sendButton=0x7f090003;
     }
     public static final class layout {
         public static final int input=0x7f030000;
-        public static final int transperent=0x7f030001;
+        public static final int test=0x7f030001;
+        public static final int transperent=0x7f030002;
     }
     public static final class string {
         public static final int general_category=0x7f070000;
